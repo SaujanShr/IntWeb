@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class IntwebApplication
+class IntWebApplication
 
 fun main(args: Array<String>) {
-	runApplication<IntwebApplication>(*args)
+	runApplication<IntWebApplication>(*args)
 }
